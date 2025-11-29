@@ -3,7 +3,7 @@
 Script de benchmark pour comparer HPA Kubernetes vs Autoscaler ML
 Version adaptée pour K3s et le déploiement In-Cluster
 """
-
+#comment
 import time
 import json
 import subprocess
